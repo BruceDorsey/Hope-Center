@@ -1,0 +1,43 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+  }
+  nav {
+    
+    text-align: center;
+    width:100%;
+  }
+  nav ul{
+    text-align: center;
+  }
+  nav ul li {
+    display: inline-block;
+    padding:0px
+  }
+
+  li a {
+    margin: auto;
+    padding: 0 190px ;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    /* identical to box height */
+    color: #0085FF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: rgb(238, 238, 238);
+  }
+  
+  a {
+    display: inline-block;
+    padding: 50px ;
+    margin:3px
+  }
