@@ -12,7 +12,10 @@ function App() {
       <h1>Doners</h1>
         <Navbar />
         <Sidebar/>
+        <footer id="footer" > Copyright 2022
+    </footer>
     </div></div>
+    
   );
 }
 

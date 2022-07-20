@@ -19,8 +19,8 @@ ul {
   }
 
   li a {
-    margin: auto;
-    padding: 0 190px ;
+    margin: 5px;
+    padding: 0 180px ;
     font-family: 'Lato';
     font-style: normal;
     font-weight: 400;
