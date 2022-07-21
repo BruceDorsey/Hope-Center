@@ -5,6 +5,7 @@ import '/workspace/Hope-Center/hopecenter/src/components/SidebarData.css'
 function SidebarData(){
 
     return(
+        
         <div id="calendar">
         <Calendar />
         

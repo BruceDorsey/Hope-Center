@@ -7,7 +7,7 @@ function Sidebar(){
 
     return(
         <div className='Sidebar' >
-            
+            <p id="Whitetext">You will be redirected to page requiring personal information after comfirmation.</p>
                 <SidebarData />
          
         </div>
