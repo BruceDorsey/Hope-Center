@@ -12,6 +12,7 @@ function App() {
       <h1>Doners</h1>
         <Navbar />
         <Sidebar/>
+        <img src="https://s3-alpha-sig.figma.com/img/41f6/bbfb/1a51bd96bba9b7c38089e97de0bc00cb?Expires=1659916800&Signature=dOdBN2RRHdiv1tEyqR3xO~8XA83QHQC26Vf6UXMYBNf6ScorbvIzd6M-BnTg7L~IbDKfD2~ct37p1y-1havB4OQi6s3kDsVlDR5tgPd2dHpogB3XWZhdOrCA9C84OLEKJG47ShMkrg3rhVhKBqjqxguHt9VPeSB51mmZL0RP679noowMlwFtq-fObQ5k4t98~bPr4vC9Q3kdjfpza6NkWXM5eZX8Gl81LhDM03CTCx-TpEz2~e0uwDWdpFjoXfWeNfIqi9UH5468Ifggcg8Jghc-6G1OTUSrfiLm1uvQ-bbUljYCEfHb5D1U6LuzALy1FI9~DNL7kq5hw6rKUpBVYg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA" id="rightimage"></img>
         <footer id="footer" > Copyright 2022
     </footer>
     </div></div>

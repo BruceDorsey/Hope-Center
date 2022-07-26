@@ -54,7 +54,7 @@ position: absolute;
 width: 417px;
 height: 450px;
 left: 36px;
-top: 768px;
+top: 268px;
 
 font-family: 'Lato';
 font-style: normal;
@@ -113,4 +113,12 @@ bottom:0px;
 color:white;
 background: #232323;
 text-align:center;
+}
+#rightimage{
+position: absolute;
+width: 1050px;
+height: 690px;
+left: 500px;
+top: 299px;
+
 }

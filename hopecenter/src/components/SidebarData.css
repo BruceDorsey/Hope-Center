@@ -1,7 +1,47 @@
+#select {
+    position: absolute;
+    background-color: rgba(255, 255, 255);
+    padding: 10px 10px;
+    margin-bottom: 20px;
+    border-radius:15px;
+    top: 30px;
+    width: 95%;
+    
+    
+}
+
+#select p{
+    text-align: center;
+   
+}
+
+#confirm {
+    position: absolute;
+    background-color: rgb(45, 2, 65);
+    padding: 10px 10px;
+    margin-bottom: 20px;
+    border-radius:15px;
+    top: 370px;
+    width: 35%;
+    left:150px;
+}
+
+#confirm p {
+    color:white;
+    
+}
+a {
+    color:white;
+    text-decoration: none;
+}
+p a:hover {
+    background-color: rgb(35, 35, 35);
+    
+}
 #calendar {
 position: absolute;
 width: 449px;
-height: 288px;
+height: 10px;
 left: 18px;
-top: 246px;
+top: 100px;
 }
